@@ -1,4 +1,4 @@
 # git-practice
 This is the first git Repo
 <Br>
-Author- Madhuri
+Author- Madhuri (MARWADI UNIVERSITY)
