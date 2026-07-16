@@ -1,3 +1,3 @@
 # git-practice
 This is the first git Repo
-Author- Madhuti
+Author- Madhuri
