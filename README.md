@@ -1,2 +1,3 @@
 # git-practice
-this is my repo
+This is the first git Repo
+Author- Madhuti
